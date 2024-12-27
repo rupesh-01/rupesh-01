@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rupesh Kumar Srivastava
-- Software Engineer @ Maplelabs
+- Software Engineer
 - Acharya Institute of Technology
 - 🌱 I'm exploring the world of distributed systems and love to work on projects that involve building the backend systems.
 - 💞️ I love reading books, and singing
