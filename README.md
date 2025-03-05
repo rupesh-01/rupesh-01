@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rupesh Kumar Srivastava
-- Software Engineer - 2.6+ years of experience
+- Software Engineer - 2.7+ years of experience
 - Mentor - 5+ months of experience
 - Passionate to work with startups where I get the opportunitity to build the systems from the scratch, own the product and be the part of the end to end delivery.
 - Acharya Institute of Technology
